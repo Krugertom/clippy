@@ -4,7 +4,7 @@
 ██║     ██║     ██║██████╔╝██████╔╝ ╚████╔╝
 ██║     ██║     ██║██╔═══╝ ██╔═══╝   ╚██╔╝
 ╚██████╗███████╗██║██║     ██║        ██║
- ╚═════╝╚══════╝╚═╝╚═╝     ╚═╝        ╚═╝  📎
+ ╚═════╝╚══════╝╚═╝╚═╝     ╚═╝        ╚═╝
 ```
 
 a little clipboard manager for your Mac.
@@ -13,11 +13,11 @@ hit **⌘1** and a glass bar slides up from the bottom of your screen with every
 
 some other nice things it does:
 
-- 🏷️ make colored tags and save clips to them — tagged stuff sticks around forever
-- 🔍 search everything, just start typing
-- 🕐 old clips clean themselves up (you pick how long they live)
-- 🌗 light mode, dark mode, whatever your Mac is doing
-- 🫥 lives quietly in your menu bar, starts on login
+- make colored tags and save clips to them — tagged stuff sticks around forever
+- search everything, just start typing
+- old clips clean themselves up (you pick how long they live)
+- light mode, dark mode, whatever your Mac is doing
+- lives quietly in your menu bar, starts on login
 
 ## install
 
